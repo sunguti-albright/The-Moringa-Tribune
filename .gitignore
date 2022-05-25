@@ -16,3 +16,4 @@ __pycache__/
 .pytest-log/
 .pytest-capture/
 .pytest-capture/
+.env
